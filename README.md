@@ -1,5 +1,11 @@
 # Research data sources for carbon sequestration in forests
 
-This repository contains notebooks on the Yukon Interior dry forests and the Midwestern Canadian Shield forests
+Notebooks
+
+* Yukon Interior dry forests 
+
+* Midwestern Canadian Shield forests
+
+* Inspect GCBM training files
 
 Dashboard https://mhienp.github.io/mojaglobal/
